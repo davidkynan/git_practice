@@ -1,0 +1,51 @@
+h1 {
+	font-family: Helvetica;
+	font-size: 70px;
+	color: white
+	text-align: center;
+	
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-size: 32px;
+	color: gray;
+	text-align: center;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	text-align: center;
+	font-weight: bold;
+}
+
+h4 {
+	
+}
+
+.header {
+	background-image: "./users/macbook/desktop/programming/projects/broadway/resources/the-flatiron-building.png";
+}
+	
+.miniheader {
+	background-image: "/resources/the-flatiron-building.png";
+}
+
+.contact {
+	text-align: center;
+}
+
+.nav {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: gray;
+	text-align: center;
+}
