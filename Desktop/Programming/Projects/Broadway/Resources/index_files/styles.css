@@ -1,4 +1,4 @@
-h1 {
+#h1 {
 	font-family: Helvetica;
 	font-size: 70px;
 	color: white
@@ -27,7 +27,6 @@ h4 {
 
 .header {
 	background-image: "./users/macbook/desktop/programming/projects/broadway/resources/the-flatiron-building.png";
-	text-align: center;
 }
 	
 .miniheader {
@@ -53,10 +52,4 @@ p {
 
 .h1 {
 	text-align: center;
-}
-
-.mainmenu {
-	display: inline-block;
-    list-style-type: none;
-}
 }
